@@ -1,0 +1,24 @@
+{
+  "name": "Kote Homestay",
+  "short_name": "Kote Stay",
+  "description": "Waterfall-view homestay in the Western Ghats with clean rooms, games and campfire nights.",
+  "id": "./",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "lang": "en-IN",
+  "background_color": "#0d3027",
+  "theme_color": "#0d3027",
+  "categories": ["travel", "lifestyle"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" },
+    { "src": "icons/icon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ],
+  "shortcuts": [
+    { "name": "Book your stay", "url": "./index.html#enquiry" },
+    { "name": "Rooms", "url": "./index.html#rooms" }
+  ]
+}

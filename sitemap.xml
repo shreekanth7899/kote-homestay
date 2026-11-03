@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://YOUR-DOMAIN/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image><image:loc>https://YOUR-DOMAIN/images/front-main-1599.webp</image:loc><image:title>Kote Homestay front view</image:title></image:image>
+    <image:image><image:loc>https://YOUR-DOMAIN/images/aerial-1280.webp</image:loc><image:title>Aerial view of Kote Homestay</image:title></image:image>
+    <video:video><video:thumbnail_loc>https://YOUR-DOMAIN/images/film-frame-796.webp</video:thumbnail_loc><video:title>Aerial film of Kote Homestay</video:title><video:description>A drone flight over Kote Homestay and the hills around it.</video:description><video:content_loc>https://YOUR-DOMAIN/video/film.mp4</video:content_loc></video:video>
+  </url>
+</urlset>
