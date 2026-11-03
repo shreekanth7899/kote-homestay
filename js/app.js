@@ -3,8 +3,8 @@
    ============================================================ */
 const CONFIG = {
   name: "Kote Homestay",
-  whatsapp: "917899151988",          // country code + number, no "+" or spaces  <-- REPLACE
-  phoneDisplay: "+91 78991 51988",   // REPLACE
+  whatsapp: "919480201679",          // country code + number, no "+" or spaces  <-- REPLACE
+  phoneDisplay: "+91 94802 01679",   // REPLACE
   mapQuery: "Kote Homestay Halegadaka estate Durgadahalli village, post, Sunkasale, Mudigere, Karnataka 577121",         // REPLACE with the exact place name or "lat,lng"
   instagram: "kotehomestay",         // Instagram handle without @  <-- REPLACE
   googleMapsApiKey: "",              // Google Maps browser key, restricted to your website  <-- REPLACE (see README.md)
